@@ -1,0 +1,17 @@
+{
+    "name": "Sky Weather",
+    "short_name": "SkyWeather",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#E5E7E9",
+    "theme_color": "#808B96",
+    "orientation": "portrait-primary",
+    "icon": [
+        {
+            "src": "/03d.png",
+            "type": "image/png",
+            "sizes": "72x72"
+        }
+        
+    ]
+}
